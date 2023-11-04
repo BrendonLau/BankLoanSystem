@@ -1,6 +1,6 @@
 # BankLoanSystem (Take Home Assignment)
 
-## objective 
+## Objective 
 Design and develop an application for applicants to apply for loans and bank to track and give loans. 
 
 ## Assumptions:
@@ -9,6 +9,9 @@ Design and develop an application for applicants to apply for loans and bank to 
 3. User may apply for different type of loans
 4. User may pay partial/ full loan
 5. Bank may approve or reject loan applied
+
+## Deployment
+1. Vercel at https://bank-loan-system-gq9y.vercel.app/ 
 
 ## Tech stack:
 1. React JS, Material UI
