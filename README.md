@@ -15,18 +15,18 @@ Design and develop an application for applicants to apply for loans and bank to 
 
 ## app directory highlights
 ├── src  
-│   ├── ...
-│   ├── components 
-|   |   ├── ...
-│   |   └── VerticalTab.js   // Handle changing application views between user and bank
-│   ├── context 
-│   |   └── userContext.js   // Handle user views and future information pertaining to a user
+│   ├── ...  
+│   ├── components  
+│   │   ├── ...  
+│   │   └── VerticalTab.js   // Handle changing application views between user and bank  
+│   ├── context  
+│   │   └── userContext.js   // Handle user views and future information pertaining to a user  
 │   ├── pages           
-│   ├── api.js              // Mock APIs for fetching data     
-│   ├── data.js             // Mock data for application  
+│   ├── api.js              // Mock APIs for fetching data       
+│   ├── data.js             // Mock data for application    
 │   ├── util.js            
 │   └── ...                 
-└── ...
+└── ...  
 
 ## Start up
 1. npm install
